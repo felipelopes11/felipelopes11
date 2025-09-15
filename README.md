@@ -53,7 +53,7 @@ Nome do Projeto: Uma breve descrição do que o projeto faz e as tecnologias usa
 
 📫 Como me Encontrar
 <p>
-<a href="URL-DO-SEU-LINKEDIN-AQUI" target="_blank">
+<a href="www.linkedin.com/in/felipe-lopes-992ba7292" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <!-- Adicione um e-mail profissional se desejar -->
