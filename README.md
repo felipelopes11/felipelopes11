@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 Aqui estão alguns projetos que demonstram minhas habilidades:
 
-* **[AI-Powered-Product-CRUD](https://github.com/felipeiopest11/AI-Powered-Product-CRUD)**: Aplicação web full-stack em C# e Blazor que permite o gerenciamento completo de produtos através de uma interface visual ou por comandos em linguagem natural, processados pela API do Google Gemini.
+* **[AI-Powered-Product-CRUD](https://github.com/felipelopes11/AI-Powered-Product-CRUD)**: Aplicação web full-stack em C# e Blazor que permite o gerenciamento completo de produtos através de uma interface visual ou por comandos em linguagem natural, processados pela API do Google Gemini.
 * **[Agente-Virtual-IA](https://github.com/felipeiopest11/Agente-Virtual-IA)**: Um agente de atendimento conversacional para E-commerce, construído em Python. Utiliza RAG (Retrieval-Augmented Generation) e modelos de linguagem locais (Ollama) para responder a perguntas de clientes.
 
 ---
