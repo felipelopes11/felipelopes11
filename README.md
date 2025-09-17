@@ -32,6 +32,6 @@ Aqui estão alguns projetos que demonstram minhas habilidades:
 
 ### 📫 Como me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui/)
+[![LinkedIn](www.linkedin.com/in/felipe-lopes-992ba7292)
 <br>
 📧 **felipe.seu.email@exemplo.com**
