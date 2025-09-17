@@ -32,8 +32,6 @@ Aqui estão alguns projetos que demonstram minhas habilidades:
 
 ### 📫 Como me Encontrar
 
-### 📫 Como me Encontrar
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-lopes-992ba7292)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedb.clopes@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21999962041)
