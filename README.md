@@ -29,9 +29,8 @@ Aqui estão alguns projetos que demonstram minhas habilidades:
 * **[AI-Virtual-Agent](https://github.com/felipelopes11/AI-Virtual-Agent)**: Um agente de atendimento conversacional para E-commerce, construído em Python. Utiliza RAG (Retrieval-Augmented Generation) e modelos de linguagem locais (Ollama) para responder a perguntas de clientes.
 
 ---
-
 ### 📫 Como me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-lopes-992ba7292)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipedb.clopes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-992ba7292/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeiopest.clopes@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21999962041)
