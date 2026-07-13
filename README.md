@@ -1,36 +1,55 @@
-### Olá, eu sou o Felipe! 👋
+<div align="center">
 
-Sou um desenvolvedor Backend e estudante de Ciência da Computação apaixonado por criar soluções de negócio utilizando tecnologia e Inteligência Artificial. Tenho grande interesse no ciclo de vida completo do desenvolvimento de software, desde a concepção da API até a implementação de interfaces que resolvem problemas reais.
+# Olá, eu sou o Felipe! 👋
+
+Desenvolvedor Backend e estudante de Ciência da Computação apaixonado por criar soluções de negócio utilizando tecnologia e Inteligência Artificial. Tenho grande interesse no ciclo de vida completo do desenvolvimento de software, desde a concepção da API até a implementação de interfaces que resolvem problemas reais.
 
 Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de microsserviços e na aplicação de modelos de linguagem (LLMs) em cenários práticos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipelopes11)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedb.clopes@gmail.com)
+
+</div>
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=felipelopes11&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelopes11&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="35%" />
+
+<img src="https://streak-stats.demolab.com?user=felipelopes11&theme=dark&hide_border=true" alt="GitHub streak" width="60%" />
+
+</div>
 
 ---
 
 ### 🚀 Meus Projetos em Destaque
 
-Aqui estão alguns projetos que demonstram minhas habilidades:
+- **[AI-Powered-Product-CRUD](https://github.com/felipelopes11/AI-Powered-Product-CRUD)**: Aplicação web full-stack em C# e Blazor que permite o gerenciamento completo de produtos através de uma interface visual ou por comandos em linguagem natural, processados pela API do Google Gemini.
+- **[AI-Virtual-Agent](https://github.com/felipelopes11/AI-Virtual-Agent)**: Um agente de atendimento conversacional para E-commerce, construído em Python. Utiliza RAG (Retrieval-Augmented Generation) e modelos de linguagem locais (Ollama) para responder a perguntas de clientes.
 
-* **[AI-Powered-Product-CRUD](https://github.com/felipelopes11/AI-Powered-Product-CRUD)**: Aplicação web full-stack em C# e Blazor que permite o gerenciamento completo de produtos através de uma interface visual ou por comandos em linguagem natural, processados pela API do Google Gemini.
-* **[AI-Virtual-Agent](https://github.com/felipelopes11/AI-Virtual-Agent)**: Um agente de atendimento conversacional para E-commerce, construído em Python. Utiliza RAG (Retrieval-Augmented Generation) e modelos de linguagem locais (Ollama) para responder a perguntas de clientes.
+<div align="center">
 
----
-### 📫 Como me Encontrar
+Confira mais projetos fixados no meu perfil ⬆️
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-992ba7292/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeiopest.clopes@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21999962041)
+</div>
