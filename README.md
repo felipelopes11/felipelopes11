@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Felipe! 👋
 
-Desenvolvedor Backend e estudante de Ciência da Computação apaixonado por criar soluções de negócio utilizando tecnologia e Inteligência Artificial. Tenho grande interesse no ciclo de vida completo do desenvolvimento de software, desde a concepção da API até a implementação de interfaces que resolvem problemas reais.
+Desenvolvedor Backend, Bacharel em Ciência da Computação, focado em criar soluções de negócio com tecnologia e Inteligência Artificial. Atuo em todo o ciclo de vida do desenvolvimento de software — da concepção da API até a implementação de interfaces que resolvem problemas reais.
 
-Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de microsserviços e na aplicação de modelos de linguagem (LLMs) em cenários práticos.
+Atualmente, aprofundando conhecimentos em arquiteturas de microsserviços e na aplicação prática de modelos de linguagem (LLMs) em produtos reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipelopes11)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedb.clopes@gmail.com)
@@ -21,8 +21,10 @@ Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de mic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,6 +51,6 @@ Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de mic
 
 <div align="center">
 
-Confira mais projetos fixados no meu perfil ⬆️
+Confira mais projetos fixados no meu perfil ⬇️
 
 </div>
