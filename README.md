@@ -45,8 +45,7 @@ Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de mic
 
 ### 🚀 Meus Projetos em Destaque
 
-- **[AI-Powered-Product-CRUD](https://github.com/felipelopes11/AI-Powered-Product-CRUD)**: Aplicação web full-stack em C# e Blazor que permite o gerenciamento completo de produtos através de uma interface visual ou por comandos em linguagem natural, processados pela API do Google Gemini.
-- **[AI-Virtual-Agent](https://github.com/felipelopes11/AI-Virtual-Agent)**: Um agente de atendimento conversacional para E-commerce, construído em Python. Utiliza RAG (Retrieval-Augmented Generation) e modelos de linguagem locais (Ollama) para responder a perguntas de clientes.
+- **[Alívia Finanças](https://github.com/felipelopes11/alivia-financas)**: Plataforma de finanças pessoais com registro de gastos via WhatsApp (IA), dashboard web e app mobile — com Firebase, Stripe e Google Gemini.
 
 <div align="center">
 
