@@ -34,8 +34,8 @@ Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de mic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipelopes11&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelopes11&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="35%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=felipelopes11&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=felipelopes11&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="35%" />
 
 <img src="https://streak-stats.demolab.com?user=felipelopes11&theme=dark&hide_border=true" alt="GitHub streak" width="60%" />
 
