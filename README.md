@@ -45,7 +45,7 @@ Atualmente, estou focado em aprofundar meus conhecimentos em arquiteturas de mic
 
 ### 🚀 Meus Projetos em Destaque
 
-- **[Alívia Finanças](https://github.com/felipelopes11/alivia-financas)**: Plataforma de finanças pessoais com registro de gastos via WhatsApp (IA), dashboard web e app mobile — com Firebase, Stripe e Google Gemini.
+- **[Alívia Finanças](https://github.com/felipelopes11/alivia-financas-showcase)**: Plataforma de finanças pessoais com registro de gastos via WhatsApp (IA), dashboard web e app mobile — com Firebase, Stripe e Google Gemini. *(produto em produção, código-fonte privado)*
 
 <div align="center">
 
